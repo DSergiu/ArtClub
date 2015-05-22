@@ -1,0 +1,5 @@
+D:\_workspace\VisualStudio\ArtClub\Domain\Domain\bin\Debug\Domain.dll
+D:\_workspace\VisualStudio\ArtClub\Domain\Domain\bin\Debug\Domain.pdb
+D:\_workspace\VisualStudio\ArtClub\Domain\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\_workspace\VisualStudio\ArtClub\Domain\Domain\obj\Debug\Domain.dll
+D:\_workspace\VisualStudio\ArtClub\Domain\Domain\obj\Debug\Domain.pdb

@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{B02CF6E0-6F73-4177-AF91-D0DC111F4532}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainTest", "DomainTest\DomainTest.csproj", "{1F33F988-0327-422C-A2B4-FDF015DD0057}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{05450F80-78B0-421C-AD96-62816DB9D3D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controlller", "Controlller\Controlller.csproj", "{2F96A073-685C-432E-9D7D-28707EE0404E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "GUI\GUI.csproj", "{CF04798E-6D21-48C4-8F36-8E8449FAE22B}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dmai0913-1.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Domain\\Domain.csproj
+		SccProjectName1 = Domain
+		SccLocalPath1 = Domain
+		SccProjectUniqueName2 = DomainTest\\DomainTest.csproj
+		SccProjectName2 = DomainTest
+		SccLocalPath2 = DomainTest
+		SccProjectUniqueName3 = DAL\\DAL.csproj
+		SccProjectName3 = DAL
+		SccLocalPath3 = DAL
+		SccProjectUniqueName4 = Controlller\\Controlller.csproj
+		SccProjectName4 = Controlller
+		SccLocalPath4 = Controlller
+		SccProjectUniqueName5 = GUI\\GUI.csproj
+		SccProjectName5 = GUI
+		SccLocalPath5 = GUI
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B02CF6E0-6F73-4177-AF91-D0DC111F4532}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B02CF6E0-6F73-4177-AF91-D0DC111F4532}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B02CF6E0-6F73-4177-AF91-D0DC111F4532}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B02CF6E0-6F73-4177-AF91-D0DC111F4532}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F33F988-0327-422C-A2B4-FDF015DD0057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F33F988-0327-422C-A2B4-FDF015DD0057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F33F988-0327-422C-A2B4-FDF015DD0057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F33F988-0327-422C-A2B4-FDF015DD0057}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05450F80-78B0-421C-AD96-62816DB9D3D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05450F80-78B0-421C-AD96-62816DB9D3D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05450F80-78B0-421C-AD96-62816DB9D3D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05450F80-78B0-421C-AD96-62816DB9D3D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F96A073-685C-432E-9D7D-28707EE0404E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F96A073-685C-432E-9D7D-28707EE0404E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F96A073-685C-432E-9D7D-28707EE0404E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F96A073-685C-432E-9D7D-28707EE0404E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF04798E-6D21-48C4-8F36-8E8449FAE22B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF04798E-6D21-48C4-8F36-8E8449FAE22B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF04798E-6D21-48C4-8F36-8E8449FAE22B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF04798E-6D21-48C4-8F36-8E8449FAE22B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
